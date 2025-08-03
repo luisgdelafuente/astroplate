@@ -3,7 +3,7 @@ title: 'La importancia de las cosechadoras a toda máquina '
 meta_title: ''
 description: this is meta description
 date: {}
-image: /images/Fima-NTDD_2022_page-0002.jpg
+image: /images/banner.png
 categories:
   - Application
   - Data
@@ -11,7 +11,7 @@ author: John Doe
 tags:
   - nextjs
   - tailwind
-draft: false
+draft: true
 ---
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
